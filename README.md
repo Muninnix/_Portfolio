@@ -16,4 +16,7 @@ si ce n'est pas la première.
 Il y a [x] maquettes : 
 - Page d'accueil : Cette maquette contiendra les informations general me concernant
 - Experience : Cette maquette contiendra les informations des différentes experiences professionel que j'ai eu .
-
+- ![alt text](https://cdn.discordapp.com/attachments/746874144783728813/859030159914565652/Portfolio.png)
+- ![alt text](https://cdn.discordapp.com/attachments/746874144783728813/859030220644024330/Portfolio_2.png)
+- ![alt text](https://cdn.discordapp.com/attachments/746874144783728813/859030257259249664/Portfolio_3.png)
+- ![alt text](https://cdn.discordapp.com/attachments/746874144783728813/859030275744071700/Portfolio_4.png)
