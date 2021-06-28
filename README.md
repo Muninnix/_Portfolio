@@ -3,6 +3,9 @@
 ## Charte graphique
 
 Expliquer votre charte graphique ( couleurs, formes, thème global ) 
+- La couleur : Pour la couleur Nous avons choisie des couleur plutot sombre comme un dégradé de noir en arrier plan, un Bordeau pour les pourcentages.
+- Les Formes : Pour les formes nous avons choisie une en-tête en rectangle et des contours de texte avec des bors arondi.
+- Le thème global : Globalement le thème du portfolio est basic, une page qui défile avec un résumé en début et les coordonnées en fin de page 
 
 ## Maquette
 
